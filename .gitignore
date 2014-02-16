@@ -1,3 +1,9 @@
+# IDE
 .idea
 
+# Node
 node_modules
+
+# Azure
+local_package.csx
+cloud_package.cspkg
